@@ -11,7 +11,7 @@
             {
                 "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "autoPublish",
-                "value": "{\"m_Value\":true}"
+                "value": "{\"m_Value\":false}"
             },
             {
                 "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
@@ -21,7 +21,7 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"C:/Users/Michael/Documents/unity-projects/final/WebGL Builds;;;;;;;;;\"}"
+                "value": "{\"m_Value\":\"C:/Users/Michael/Documents/unity-projects/final/WebGL Builds/reallydone;C:/Users/Michael/Documents/unity-projects/final/WebGL Builds/done;C:/Users/Michael/Documents/unity-projects/final/WebGL Builds/real;C:/Users/Michael/Documents/unity-projects/final/WebGL Builds/thefinal;C:/Users/Michael/Documents/unity-projects/final/WebGL Builds/aa;C:/Users/Michael/Documents/unity-projects/final/WebGL Builds/test;C:/Users/Michael/Documents/unity-projects/final/WebGL Builds/finaldone;C:/Users/Michael/Documents/unity-projects/final/WebGL Builds;;\"}"
             }
         ]
     }
